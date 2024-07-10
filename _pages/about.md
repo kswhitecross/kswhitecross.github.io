@@ -19,8 +19,8 @@ Currently, I'm interested in leveraging graph machine learning to build more fle
 
 News
 ------
-- 04/24 I just accepted an offer to join the [CIIR](https://ciir.cs.umass.edu/) lab as a PhD Student at [UMass Amherst](https://www.umass.edu/)!
-- 04/24 My second paper, [Investigating the Impact of Model Width and Density on Generalization in Presence of Label Noise](https://arxiv.org/abs/2208.08003) was just accepted to [UAI 2024](https://www.auai.org/uai2024/)!
-- 06/23 I graduated summa cum laude with a B.S. in Computer Science from the [Henry Samueli School of Engineering and Applied Sciences](https://samueli.ucla.edu/) at [UCLA](https://www.ucla.edu/)!
-- 06/22 I just started an internship at [Kumo.ai](https://kumo.ai/) in Mountain View, CA.
-- 05/22: My first paper, [Investigating Why Contrastive Learning Benefits Robustness Against Label Noise](https://arxiv.org/abs/2201.12498) was accepted to [ICML 2022](https://icml.cc/Conferences/2022)!
+- 04/2024 I just accepted an offer to join the [CIIR](https://ciir.cs.umass.edu/) lab as a PhD Student at [UMass Amherst](https://www.umass.edu/)!
+- 04/2024 My second paper, [Investigating the Impact of Model Width and Density on Generalization in Presence of Label Noise](https://arxiv.org/abs/2208.08003) was just accepted to [UAI 2024](https://www.auai.org/uai2024/)!
+- 06/2023 I graduated summa cum laude with a B.S. in Computer Science from the [Henry Samueli School of Engineering and Applied Sciences](https://samueli.ucla.edu/) at [UCLA](https://www.ucla.edu/)!
+- 06/2022 I just started an internship at [Kumo.ai](https://kumo.ai/) in Mountain View, CA.
+- 05/2022: My first paper, [Investigating Why Contrastive Learning Benefits Robustness Against Label Noise](https://arxiv.org/abs/2201.12498) was accepted to [ICML 2022](https://icml.cc/Conferences/2022)!
