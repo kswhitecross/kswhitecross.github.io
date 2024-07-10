@@ -1,10 +1,8 @@
 ---
 permalink: /awards/
-title: "Kyle Whitecross"
+title: "Awards and Honors"
 author_profile: true
 ---
-
-Awards!
 
 - 04/2024: __Manning College Scholarship Award__ \
 Awarded to selected entering graduate students.
