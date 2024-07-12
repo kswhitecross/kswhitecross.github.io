@@ -21,7 +21,7 @@ repository               : "kswhitecross/kswhitecross.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "kyle_profile_pic cropped.jpeg"
   name             : "Kyle Whitecross"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in CIIR Lab @ UMass Amherst"
